@@ -1,0 +1,22 @@
+{
+  "name": "siddhartha",
+  "version": "1.0.0",
+  "description": "introduction to express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "siddhartha dey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
